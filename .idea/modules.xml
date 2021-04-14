@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nacos01_7071/nacos01_7071.iml" filepath="$PROJECT_DIR$/nacos01_7071/nacos01_7071.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos02_7072/nacos01_7072.iml" filepath="$PROJECT_DIR$/nacos02_7072/nacos01_7072.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudstudy.iml" filepath="$PROJECT_DIR$/springcloudstudy.iml" />
+    </modules>
+  </component>
+</project>
